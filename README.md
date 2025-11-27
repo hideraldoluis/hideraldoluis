@@ -18,7 +18,7 @@ Fique à vontade para explorar e interagir. <br>
 
 <br>
 
-- 🔭 Desbravando o [OpenManus]([https://github.com/hideraldus13/iaa-ufpr](https://github.com/hideraldus13/OpenManus) e o [Fara](https://github.com/hideraldus13/fara)
+- 🔭 Desbravando o [OpenManus](https://github.com/hideraldus13/iaa-ufpr](https://github.com/hideraldus13/OpenManus) e o [Fara](https://github.com/hideraldus13/fara)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **IA**
 - 💬 Me chame para conversar sobre _#tech_, _#datascience e _#gestaodepessoas_
