@@ -11,15 +11,15 @@ E é aqui que eu vou acumulando meus repositórios. <br>
 Fique à vontade para explorar e interagir. <br>
 
 <sub>Diga "Oi" <br> 
-    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/hideraldus13)
+    [<img src = "https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/hideraldoluis)
     [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hideraldoluis/) 
     [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hideraldojunior/) 
 </sub>
 
 <br>
 
-- 🔭 Desbravando o [OpenManus](https://github.com/hideraldus13/OpenManus) e o [Fara](https://github.com/hideraldus13/fara)
-- 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
+- 🔭 Desbravando o [OpenManus](https://github.com/hideraldoluis/OpenManus) e o [Fara](https://github.com/hideraldoluis/fara)
+- 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldoluis/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **IA**
 - 💬 Me chame para conversar sobre _#tech_, _#datascience e _#gestaodepessoas_
 - 📫 Escrevo [artigos no LinkedIn](https://www.linkedin.com/in/hideraldoluis/recent-activity/posts/)
