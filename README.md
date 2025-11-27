@@ -18,24 +18,22 @@ Fique à vontade para explorar e interagir. <br>
 
 <br>
 
-- 🔭 Trabalhando em [Pós Graduação em Inteligência Artificial Aplicada, pela UFPR](https://github.com/hideraldus13/iaa-ufpr) << *repositório privado*
-- 🎁 Último repositório criado [ShareOfSearch](https://github.com/hideraldus13/shareofsearch)
+- 🔭 Desbravando o [OpenManus]([https://github.com/hideraldus13/iaa-ufpr](https://github.com/hideraldus13/OpenManus) e o [Fara](https://github.com/hideraldus13/fara)
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldus13/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **IA**
-- 💬 Me chame para conversar sobre _#tech_, _#datascience_ e _#gestaodepessoas_
+- 💬 Me chame para conversar sobre _#tech_, _#datascience e _#gestaodepessoas_
 - 📫 Escrevo [artigos no LinkedIn](https://www.linkedin.com/in/hideraldoluis/recent-activity/posts/)
 - 📖 Livros que fizeram a diferença: 
-  - [Storytelling com dados - Knaflic](https://amzn.to/3y2Srjw)
   - [Pipeline de liderança - Charan, Drotter, Noel](https://amzn.to/3QHoSeH)
   - [A lógica do cisne negro - Taleb](https://amzn.to/3QtA5iy)
   - [Essencialismo - McKeown](https://amzn.to/3xHxWrg)
   - [Blitzscaling - Hoffman, Yeh](https://amzn.to/3xZS2y4)
-  - [A startup enxuta - Ries](https://amzn.to/3N5VStM)
-  - [Gestão de alta performance - Grove](https://amzn.to/3b6qnm8)
 
 <br>
 
 <!--
+- 🎁 Último repositório criado [ShareOfSearch](https://github.com/hideraldus13/shareofsearch)
+
 **hideraldus13/hideraldus13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
