@@ -18,7 +18,7 @@ Fique à vontade para explorar e interagir. <br>
 
 <br>
 
-- 🔭 Desbravando o [OpenManus](https://github.com/hideraldoluis/OpenManus) e o [Fara](https://github.com/hideraldoluis/fara)
+- 🔭 Desbravando o melhor Agentic Open Source
 - 👯 Colabore com [Roadmap do Desenvolvedor Web](https://github.com/hideraldoluis/roadmap-do-desenvolvedor-web)
 - 🌱 Evoluindo em **IA**
 - 💬 Me chame para conversar sobre _#tech_, _#datascience e _#gestaodepessoas_
